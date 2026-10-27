@@ -1,0 +1,10 @@
+{
+  "id": "20261027-1",
+  "vencordCommit": "443688b5366a4d43e9868519f48a4544cd7520d4",
+  "deviceVerified": false,
+  "sha256": {
+    "browser.js": "cd7470a351131abc2a4194b25911e1c99cbe034b9888b712e1f7a5dcc9ba206f",
+    "browser.css": "50ac3a101c328153cd4f7243b9755c599cb13dc3dc3a040d3b9e972ed717ddd9",
+    "browser.js.LEGAL.txt": "ed1bedf381c7564f739b0325326de68c34457ee95e6d4383d9c12e13c0e21e91"
+  }
+}
